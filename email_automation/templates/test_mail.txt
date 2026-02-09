@@ -1,0 +1,9 @@
+Hello {{name}},
+
+This is an automated email sent by the Automation Suite.
+
+Tool Used: {{tool}}
+Status: {{status}}
+
+Regards,
+Automation Suite

@@ -1,0 +1,232 @@
+2026-01-22 11:50:59,416 - INFO - Logger initialized
+2026-01-22 11:53:28,601 - INFO - Logger initialized
+2026-01-22 11:59:59,222 - INFO - Logger initialized
+2026-01-22 11:59:59,252 - INFO - Moved f1cars5.avif \u2192 Others
+2026-01-22 11:59:59,253 - INFO - Moved test.py \u2192 Code
+2026-01-22 11:59:59,253 - INFO - Moved test.txt \u2192 Documents
+2026-01-22 12:00:56,642 - INFO - Logger initialized
+2026-01-22 12:06:17,373 - INFO - Logger initialized
+2026-01-22 12:06:17,378 - INFO - Moved test_20260122_120617.py \u2192 Code
+2026-01-22 12:06:17,378 - INFO - Moved test_20260122_120617.txt \u2192 Documents
+2026-01-22 12:12:53,775 - INFO - Logger initialized
+2026-01-22 12:13:03,477 - INFO - Logger initialized
+2026-01-22 12:13:03,484 - INFO - Task 'organize' added to workflow 'Week1 Workflow'
+2026-01-22 12:13:03,484 - INFO - Starting workflow 'Week1 Workflow' with 1 tasks
+2026-01-22 12:13:03,484 - INFO - Running task: organize
+2026-01-22 12:13:03,485 - INFO - Workflow 'Week1 Workflow' completed
+2026-01-22 12:25:13,185 - INFO - Logger initialized
+2026-01-22 12:25:23,267 - INFO - Logger initialized
+2026-01-22 12:25:23,270 - INFO - Task 'organize' added to workflow 'Week1 Workflow'
+2026-01-22 12:25:23,270 - INFO - Starting workflow 'Week1 Workflow' with 1 tasks
+2026-01-22 12:25:23,270 - INFO - Running task: organize
+2026-01-22 12:25:23,270 - INFO - Workflow 'Week1 Workflow' completed
+2026-01-22 12:41:36,633 - INFO - Logger initialized
+2026-01-22 12:41:36,664 - INFO - Moved f1cars5_20260122_124136.avif \u2192 Others
+2026-01-22 12:41:36,665 - INFO - Moved f1logo.jpg \u2192 Images
+2026-01-22 12:41:36,665 - INFO - Moved Information and Network Security-Theory-Syllabus.pdf \u2192 Documents
+2026-01-22 12:41:36,666 - INFO - Moved player_stats.csv \u2192 Others
+2026-01-22 12:42:27,102 - INFO - Logger initialized
+2026-01-22 12:42:27,107 - INFO - Task 'organize' added to workflow 'Week1 Workflow'
+2026-01-22 12:42:27,108 - INFO - Starting workflow 'Week1 Workflow' with 1 tasks
+2026-01-22 12:42:27,108 - INFO - Running task: organize
+2026-01-22 12:42:27,108 - INFO - Workflow 'Week1 Workflow' completed
+2026-01-22 12:43:04,076 - INFO - Logger initialized
+2026-01-22 12:56:52,138 - INFO - Logger initialized
+2026-01-22 12:56:52,639 - INFO - Scraping https://example.com with proxy http://333.333.333.333:8000
+2026-01-22 12:57:02,650 - ERROR - Failed to fetch https://example.com: HTTPSConnectionPool(host='example.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<HTTPSConnection(host='222.222.222.222', port=3128) at 0x14ff69ec6e0>, 'Connection to 222.222.222.222 timed out. (connect timeout=10)')))
+2026-01-22 13:01:37,078 - INFO - Logger initialized
+2026-01-22 13:01:37,325 - INFO - Task 'organize' added to workflow 'Week1+Week2 Workflow'
+2026-01-22 13:01:37,325 - INFO - Task 'scrape' added to workflow 'Week1+Week2 Workflow'
+2026-01-22 13:01:37,326 - INFO - Starting workflow 'Week1+Week2 Workflow' with 2 tasks
+2026-01-22 13:01:37,326 - INFO - Running task: organize
+2026-01-22 13:01:37,326 - INFO - Running task: scrape
+2026-01-22 13:01:37,326 - INFO - Scraping https://example.com with proxy http://222.222.222.222:3128
+2026-01-22 13:01:47,338 - ERROR - Failed to fetch https://example.com: HTTPSConnectionPool(host='example.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<HTTPSConnection(host='111.111.111.111', port=8080) at 0x1ecc0ea8ad0>, 'Connection to 111.111.111.111 timed out. (connect timeout=10)')))
+2026-01-22 13:01:47,338 - INFO - Workflow 'Week1+Week2 Workflow' completed
+2026-01-22 13:03:53,113 - INFO - Logger initialized
+2026-01-22 13:04:01,545 - INFO - Logger initialized
+2026-01-22 13:04:01,768 - INFO - Scraping https://example.com with proxy http://333.333.333.333:8000
+2026-01-22 13:04:01,780 - ERROR - Failed to fetch https://example.com: HTTPSConnectionPool(host='example.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("HTTPSConnection(host='333.333.333.333', port=8000): Failed to resolve '333.333.333.333' ([Errno 11001] getaddrinfo failed)")))
+2026-01-22 13:14:16,397 - INFO - Logger initialized
+2026-01-22 13:14:16,705 - INFO - No proxies configured, using direct connection
+2026-01-22 13:14:16,705 - INFO - Scraping https://example.com without proxy
+2026-01-22 13:14:17,618 - INFO - Exported data to exports/scraper_output.csv
+2026-01-22 13:14:17,618 - INFO - Scraping completed: 1 links found
+2026-01-22 13:20:01,238 - INFO - Logger initialized
+2026-01-22 13:20:01,500 - INFO - Task 'organize' added to workflow 'Week1+Week2 Workflow'
+2026-01-22 13:20:01,500 - INFO - Task 'scrape' added to workflow 'Week1+Week2 Workflow'
+2026-01-22 13:20:01,500 - INFO - Starting workflow 'Week1+Week2 Workflow' with 2 tasks
+2026-01-22 13:20:01,500 - INFO - Running task: organize
+2026-01-22 13:20:01,500 - INFO - Running task: scrape
+2026-01-22 13:20:01,500 - INFO - No proxies configured, using direct connection
+2026-01-22 13:20:01,500 - INFO - Scraping https://example.com without proxy
+2026-01-22 13:20:02,510 - INFO - Exported data to exports/scraper_output.csv
+2026-01-22 13:20:02,510 - INFO - Scraping completed: 1 links found
+2026-01-22 13:20:02,513 - INFO - Workflow 'Week1+Week2 Workflow' completed
+2026-01-22 13:20:21,564 - INFO - Logger initialized
+2026-01-22 13:20:35,381 - INFO - Logger initialized
+2026-01-22 13:20:35,654 - INFO - No proxies configured, using direct connection
+2026-01-22 13:20:35,654 - INFO - Scraping https://example.com without proxy
+2026-01-22 13:20:36,354 - INFO - Exported data to exports/scraper_output.csv
+2026-01-22 13:20:36,354 - INFO - Scraping completed: 1 links found
+2026-01-22 13:30:33,459 - INFO - Logger initialized
+2026-01-22 13:30:36,610 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-353354cdee2sm1597639a91.14 - gsmtp')
+2026-01-22 13:32:55,165 - INFO - Logger initialized
+2026-01-22 13:32:58,751 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82180636c38sm2565610b3a.24 - gsmtp')
+2026-01-23 09:51:01,373 - INFO - Logger initialized
+2026-01-23 09:51:01,871 - INFO - Task 'organize' added to workflow 'Week 1 + Week 2 Workflow'
+2026-01-23 09:51:01,871 - INFO - Task 'scrape' added to workflow 'Week 1 + Week 2 Workflow'
+2026-01-23 09:51:01,871 - INFO - Starting workflow 'Week 1 + Week 2 Workflow' with 2 tasks
+2026-01-23 09:51:01,871 - INFO - Running task: organize
+2026-01-23 09:51:01,871 - INFO - Running task: scrape
+2026-01-23 09:51:01,871 - INFO - No proxies configured, using direct connection
+2026-01-23 09:51:01,871 - INFO - Scraping https://example.com without proxy
+2026-01-23 09:51:02,772 - INFO - Exported data to exports/scraper_output.csv
+2026-01-23 09:51:02,772 - INFO - Scraping completed: 1 links found
+2026-01-23 09:51:02,774 - INFO - Workflow 'Week 1 + Week 2 Workflow' completed
+2026-01-23 09:52:55,174 - INFO - Logger initialized
+2026-01-23 09:52:58,482 - ERROR - SMTP Authentication failed
+2026-01-23 09:57:03,887 - INFO - Logger initialized
+2026-01-23 09:57:07,314 - ERROR - SMTP Authentication failed
+2026-01-23 10:01:48,961 - INFO - Logger initialized
+2026-01-23 10:01:51,985 - ERROR - SMTP Authentication failed
+2026-01-23 10:04:42,996 - INFO - Logger initialized
+2026-01-23 10:04:47,748 - INFO - Email sent successfully to fairypatell04@gmail.com
+2026-01-23 10:22:07,122 - INFO - Logger initialized
+2026-01-23 10:22:11,032 - INFO - Email sent successfully to fairypatell04@gmail.com
+2026-01-23 10:28:23,571 - INFO - Logger initialized
+2026-01-23 10:28:24,333 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)
+2026-01-23 10:30:05,103 - INFO - Logger initialized
+2026-01-23 10:30:09,290 - INFO - Email sent successfully to fairypatell04@gmail.com
+2026-01-23 10:40:29,778 - INFO - Logger initialized
+2026-01-23 10:40:30,962 - INFO - System Metrics: {'timestamp': '2026-01-23 10:40:29', 'cpu_percent': 21.7, 'memory_percent': 50.4, 'disk_percent': 43.3}
+2026-01-23 10:52:08,740 - INFO - Logger initialized
+2026-01-23 10:52:25,455 - INFO - Logger initialized
+2026-01-23 10:53:55,420 - INFO - Logger initialized
+2026-01-23 10:53:55,653 - INFO - Logger initialized
+2026-01-23 10:53:55,680 - INFO - Logger initialized
+2026-01-23 10:56:16,252 - INFO - Logger initialized
+2026-01-23 10:56:16,428 - INFO - Logger initialized
+2026-01-23 10:56:16,433 - INFO - Logger initialized
+2026-01-23 10:58:58,432 - INFO - Logger initialized
+2026-01-23 10:58:58,596 - INFO - Logger initialized
+2026-01-23 10:58:58,599 - INFO - Logger initialized
+2026-01-23 10:58:58,662 - INFO - Logger initialized
+2026-01-23 10:59:14,150 - INFO - No proxies configured, using direct connection
+2026-01-23 10:59:14,150 - INFO - Scraping https://example.com without proxy
+2026-01-23 10:59:16,411 - INFO - Exported data to exports/scraper_output.csv
+2026-01-23 10:59:16,411 - INFO - Scraping completed: 1 links found
+2026-01-23 10:59:29,372 - INFO - Email sent successfully to fairypatell04@gmail.com
+2026-01-23 11:09:02,465 - INFO - Logger initialized
+2026-01-23 11:09:02,642 - INFO - Logger initialized
+2026-01-23 11:09:02,657 - INFO - Logger initialized
+2026-01-23 11:09:02,661 - INFO - Logger initialized
+2026-01-23 11:09:02,661 - INFO - Logger initialized
+2026-01-23 11:10:40,965 - INFO - Logger initialized
+2026-01-23 11:10:41,135 - INFO - Logger initialized
+2026-01-23 11:10:41,172 - INFO - Logger initialized
+2026-01-23 11:10:41,179 - INFO - Logger initialized
+2026-01-23 11:10:41,180 - INFO - Logger initialized
+2026-01-23 11:13:11,021 - INFO - Logger initialized
+2026-01-23 11:13:11,021 - INFO - Logger initialized
+2026-01-23 11:14:06,169 - INFO - Email sent successfully to Fairypatell04@gmail.com
+2026-01-23 11:15:34,758 - INFO - Logger initialized
+2026-01-23 11:15:34,758 - INFO - Logger initialized
+2026-01-23 11:16:35,937 - INFO - No proxies configured, using direct connection
+2026-01-23 11:16:35,937 - INFO - Scraping https://news.ycombinator.com without proxy
+2026-01-23 11:16:39,627 - INFO - Exported data to exports/scraper_output.csv
+2026-01-23 11:16:39,627 - INFO - Scraping completed: 225 links found
+2026-01-23 11:19:14,171 - INFO - Logger initialized
+2026-01-23 11:19:14,171 - INFO - Logger initialized
+2026-01-23 11:20:59,764 - INFO - Logger initialized
+2026-01-23 11:20:59,764 - INFO - Logger initialized
+2026-01-23 11:21:38,595 - INFO - Logger initialized
+2026-01-23 11:21:38,596 - INFO - Logger initialized
+2026-01-23 11:29:32,090 - INFO - Logger initialized
+2026-01-23 11:29:32,091 - INFO - Logger initialized
+2026-01-23 11:30:01,275 - INFO - Logger initialized
+2026-01-23 11:30:01,275 - INFO - Logger initialized
+2026-01-23 11:31:26,091 - INFO - Logger initialized
+2026-01-23 11:31:26,091 - INFO - Logger initialized
+2026-01-23 11:31:56,602 - INFO - Logger initialized
+2026-01-23 11:31:56,603 - INFO - Logger initialized
+2026-01-23 11:32:47,142 - INFO - Logger initialized
+2026-01-23 11:32:47,142 - INFO - Logger initialized
+2026-01-23 11:45:30,946 - INFO - Logger initialized
+2026-01-23 11:45:46,011 - INFO - Email sent successfully to fairypatell04@gmail.com
+2026-01-23 11:48:07,410 - INFO - Logger initialized
+2026-01-23 11:48:21,190 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-23 11:50:24,957 - INFO - Logger initialized
+2026-01-23 11:50:32,451 - INFO - No proxies configured, using direct connection
+2026-01-23 11:50:32,451 - INFO - Scraping https://example.com without proxy
+2026-01-23 11:50:33,154 - INFO - Exported data to exports/scraper_output.csv
+2026-01-23 11:50:33,154 - INFO - Scraping completed: 1 links found
+2026-01-23 11:50:42,335 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-23 11:52:25,538 - INFO - Logger initialized
+2026-01-23 11:53:19,138 - INFO - Logger initialized
+2026-01-23 11:58:49,875 - INFO - Logger initialized
+2026-01-23 11:59:01,969 - INFO - No proxies configured, using direct connection
+2026-01-23 11:59:01,969 - INFO - Scraping https://example.com without proxy
+2026-01-23 11:59:02,694 - INFO - Exported data to exports/scraper_output.csv
+2026-01-23 11:59:02,694 - INFO - Scraping completed: 1 links found
+2026-01-23 12:01:58,663 - INFO - Logger initialized
+2026-01-23 12:02:45,971 - INFO - Logger initialized
+2026-01-23 12:05:00,094 - INFO - Logger initialized
+2026-01-23 12:07:19,054 - INFO - Logger initialized
+2026-01-23 12:08:12,852 - INFO - Logger initialized
+2026-01-23 12:09:55,364 - INFO - Logger initialized
+2026-01-23 12:12:22,038 - INFO - Logger initialized
+2026-01-23 12:15:39,846 - INFO - Logger initialized
+2026-01-23 12:16:59,371 - INFO - Logger initialized
+2026-01-23 12:21:29,328 - INFO - Logger initialized
+2026-01-23 12:24:49,077 - INFO - Logger initialized
+2026-01-23 12:25:01,490 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-23 12:25:05,112 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-23 12:28:03,161 - INFO - Logger initialized
+2026-01-23 12:29:13,106 - INFO - Logger initialized
+2026-01-23 12:30:30,125 - INFO - Logger initialized
+2026-01-23 12:30:40,875 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-23 12:31:31,463 - INFO - Logger initialized
+2026-01-23 12:32:23,207 - INFO - Logger initialized
+2026-01-23 12:32:49,447 - INFO - Logger initialized
+2026-01-23 12:33:07,802 - INFO - Logger initialized
+2026-01-23 12:38:04,322 - INFO - Logger initialized
+2026-01-23 12:38:04,322 - INFO - Logger initialized
+2026-01-23 12:48:10,626 - INFO - Logger initialized
+2026-01-23 12:48:10,627 - INFO - Logger initialized
+2026-01-23 12:48:25,576 - INFO - No proxies configured, using direct connection
+2026-01-23 12:48:25,577 - INFO - Scraping https://example.com without proxy
+2026-01-23 12:48:26,456 - INFO - Exported data to exports/scraper_output.csv
+2026-01-23 12:48:26,457 - INFO - Scraping completed: 1 links found
+2026-01-23 12:48:40,891 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-23 12:57:27,587 - INFO - Logger initialized
+2026-01-23 12:57:27,587 - INFO - Logger initialized
+2026-01-23 13:05:23,028 - INFO - Logger initialized
+2026-01-23 13:05:23,029 - INFO - Logger initialized
+2026-01-23 13:11:53,559 - INFO - Logger initialized
+2026-01-23 13:11:53,911 - INFO - Logger initialized
+2026-01-23 13:11:53,911 - INFO - Logger initialized
+2026-01-23 13:13:08,506 - INFO - Logger initialized
+2026-01-23 13:13:08,506 - INFO - Logger initialized
+2026-01-23 13:13:46,971 - INFO - Logger initialized
+2026-01-23 13:13:46,972 - INFO - Logger initialized
+2026-01-23 13:14:30,004 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-23 13:14:38,814 - INFO - No proxies configured, using direct connection
+2026-01-23 13:14:38,814 - INFO - Scraping https://example.com without proxy
+2026-01-23 13:14:39,729 - INFO - Exported data to exports/scraper_output.csv
+2026-01-23 13:14:39,729 - INFO - Scraping completed: 1 links found
+2026-01-23 13:30:28,374 - INFO - Logger initialized
+2026-01-23 13:30:28,374 - INFO - Logger initialized
+2026-01-27 09:58:49,469 - INFO - Logger initialized
+2026-01-27 09:58:49,469 - INFO - Logger initialized
+2026-01-27 09:59:50,358 - INFO - Email sent to fairypatell04@gmail.com
+2026-01-27 10:00:01,611 - INFO - Logger initialized
+2026-01-27 10:00:01,612 - INFO - Logger initialized
+2026-02-09 09:45:13,824 - INFO - Logger initialized
+2026-02-09 09:45:28,456 - INFO - Logger initialized
+2026-02-09 09:45:28,457 - INFO - Logger initialized
+2026-02-09 09:50:31,526 - INFO - No proxies configured, using direct connection
+2026-02-09 09:50:31,526 - INFO - Scraping https://example.com without proxy
+2026-02-09 09:50:32,493 - INFO - Exported data to exports/scraper_output.csv
+2026-02-09 09:50:32,493 - INFO - Scraping completed: 1 links found
+2026-02-09 09:51:58,404 - INFO - Email sent to example@gmail.com

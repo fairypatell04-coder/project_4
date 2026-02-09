@@ -1,0 +1,45 @@
+{
+  
+  "project_name": "Automation Suite",
+  "version": "1.0",
+  "watch_folder": "watch",
+  "organized_folder": "organized",
+  "logs_folder": "logs",
+  "email_sender": "your_email@gmail.com",
+  
+  
+  
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 465,
+    "sender_email": "fairypatell04@gmail.com",
+    "sender_password": "mnjjxbtjdpqdinov"
+
+  
+},
+
+
+  "web_scraper": {
+    "default_url": "https://example.com",
+    "output_file": "exports/scraper_output.csv",
+    "proxies": [
+      "http://111.111.111.111:8080",
+      "http://222.222.222.222:3128",
+      "http://333.333.333.333:8000"
+    ],
+    "user_agents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.64 Safari/537.36"
+    ]
+  },
+
+  "system_monitor": {
+    "cpu_threshold": 90,
+    "ram_threshold": 90,
+    "disk_threshold": 90,
+    "report_folder": "exports"
+  }
+}
+
+
