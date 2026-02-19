@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛠️ Automation Suite (Python)
 
 A complete Python-based Automation Suite that provides multiple automation tools
@@ -78,3 +79,6 @@ Run GUI
 
 Testing
 python -m unittest discover tests
+=======
+# project_4
+>>>>>>> c056c40f281780c2a003d47ae315a69e334ea5ab
